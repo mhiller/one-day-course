@@ -1,4 +1,4 @@
-# 5. Schema design
+# 6. Schema design
 * A little bit deeper with the InfluxDB Data Model (RP's and Databases)
 * Continuous Queries and Retention policies
 * Schema Design (Project)
