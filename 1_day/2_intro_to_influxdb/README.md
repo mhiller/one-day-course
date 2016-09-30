@@ -16,7 +16,7 @@
 
 # 1. What is the difference between regular and irregular time series?
 
-# 2. What are the names of the InfluxDB components on the graph on the screen? Additionally, please describe the roles of each of the components.
+# 2. What are the names of the InfluxDB components? Additionally, please describe the roles of each of the components.
 
 # 3. What types of values can be stored as tag values?
 
